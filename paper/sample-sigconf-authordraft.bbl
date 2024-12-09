@@ -1,0 +1,91 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{4}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[arc({[n.\,d.]})]%
+        {arc-prize}
+ \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{{ARC} {Prize} - {What} is {ARC}-{AGI}?}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://arcprize.org/arc}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Cobbe et~al\mbox{.}(2021)]%
+        {math-verifiers}
+\bibfield{author}{\bibinfo{person}{Karl Cobbe}, \bibinfo{person}{Vineet Kosaraju}, \bibinfo{person}{Mohammad Bavarian}, \bibinfo{person}{Mark Chen}, \bibinfo{person}{Heewoo Jun}, \bibinfo{person}{Lukasz Kaiser}, \bibinfo{person}{Matthias Plappert}, \bibinfo{person}{Jerry Tworek}, \bibinfo{person}{Jacob Hilton}, \bibinfo{person}{Reiichiro Nakano}, \bibinfo{person}{Christopher Hesse}, {and} \bibinfo{person}{John Schulman}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{title}{Training {Verifiers} to {Solve} {Math} {Word} {Problems}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.48550/arXiv.2110.14168}
+\showDOI{\tempurl}
+\newblock
+\shownote{arXiv:2110.14168}.
+
+
+\bibitem[Sun et~al\mbox{.}(2024)]%
+        {easy-to-hard}
+\bibfield{author}{\bibinfo{person}{Zhiqing Sun}, \bibinfo{person}{Longhui Yu}, \bibinfo{person}{Yikang Shen}, \bibinfo{person}{Weiyang Liu}, \bibinfo{person}{Yiming Yang}, \bibinfo{person}{Sean Welleck}, {and} \bibinfo{person}{Chuang Gan}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Easy-to-{Hard} {Generalization}: {Scalable} {Alignment} {Beyond} {Human} {Supervision}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.48550/arXiv.2403.09472}
+\showDOI{\tempurl}
+\newblock
+\shownote{arXiv:2403.09472}.
+
+
+\bibitem[Wang et~al\mbox{.}(2024)]%
+        {hypothesis-search}
+\bibfield{author}{\bibinfo{person}{Ruocheng Wang}, \bibinfo{person}{Eric Zelikman}, \bibinfo{person}{Gabriel Poesia}, \bibinfo{person}{Yewen Pu}, \bibinfo{person}{Nick Haber}, {and} \bibinfo{person}{Noah~D. Goodman}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Hypothesis {Search}: {Inductive} {Reasoning} with {Language} {Models}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.48550/arXiv.2309.05660}
+\showDOI{\tempurl}
+\newblock
+\shownote{arXiv:2309.05660}.
+
+
+\end{thebibliography}

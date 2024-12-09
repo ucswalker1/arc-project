@@ -1,0 +1,102 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sample-sigconf-authordraft.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample-base.bib
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Lamport:LaTeX"
+Warning--I didn't find a database entry for "Abril07"
+Warning--I didn't find a database entry for "Cohen07"
+Warning--I didn't find a database entry for "JCohen96"
+Warning--I didn't find a database entry for "Kosiur01"
+Warning--I didn't find a database entry for "Harel79"
+Warning--I didn't find a database entry for "Editor00"
+Warning--I didn't find a database entry for "Editor00a"
+Warning--I didn't find a database entry for "Spector90"
+Warning--I didn't find a database entry for "Douglass98"
+Warning--I didn't find a database entry for "Knuth97"
+Warning--I didn't find a database entry for "Andler79"
+Warning--I didn't find a database entry for "Hagerup1993"
+Warning--I didn't find a database entry for "Smith10"
+Warning--I didn't find a database entry for "VanGundy07"
+Warning--I didn't find a database entry for "Harel78"
+Warning--I didn't find a database entry for "Bornmann2019"
+Warning--I didn't find a database entry for "AnzarootPBM14"
+Warning--I didn't find a database entry for "Clarkson85"
+Warning--I didn't find a database entry for "anisi03"
+Warning--I didn't find a database entry for "Thornburg01"
+Warning--I didn't find a database entry for "Ablamowicz07"
+Warning--I didn't find a database entry for "Poker06"
+Warning--I didn't find a database entry for "Obama08"
+Warning--I didn't find a database entry for "Novak03"
+Warning--I didn't find a database entry for "Lee05"
+Warning--I didn't find a database entry for "JoeScientist001"
+Warning--I didn't find a database entry for "rous08"
+Warning--I didn't find a database entry for "SaeediMEJ10"
+Warning--I didn't find a database entry for "SaeediJETC10"
+Warning--I didn't find a database entry for "Kirschmer:2010:AEI:1958016.1958018"
+Warning--I didn't find a database entry for "MR781536"
+Warning--I didn't find a database entry for "MR781537"
+Warning--I didn't find a database entry for "2004:ITE:1009386.1010128"
+Warning--I didn't find a database entry for "TUGInstmem"
+Warning--I didn't find a database entry for "CTANacmart"
+Warning--I didn't find a database entry for "R"
+Warning--I didn't find a database entry for "UMassCitations"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in arc-prize
+Warning--no author, editor, organization, or key in arc-prize
+Warning--to sort, need author or key in arc-prize
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--no key, author in arc-prize
+Warning--no key, author in arc-prize
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in arc-prize
+Warning--empty author in arc-prize
+Warning--empty year in arc-prize
+You've used 4 entries,
+            5981 wiz_defined-function locations,
+            1725 strings with 21692 characters,
+and the built_in function-call counts, 3912 in all, are:
+= -- 374
+> -- 221
+< -- 0
++ -- 79
+- -- 75
+* -- 350
+:= -- 461
+add.period$ -- 22
+call.type$ -- 4
+change.case$ -- 41
+chr.to.int$ -- 4
+cite$ -- 16
+duplicate$ -- 270
+empty$ -- 198
+format.name$ -- 87
+if$ -- 810
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 91
+num.names$ -- 21
+pop$ -- 136
+preamble$ -- 1
+purify$ -- 68
+quote$ -- 0
+skip$ -- 107
+stack$ -- 0
+substring$ -- 191
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 8
+while$ -- 9
+width$ -- 0
+write$ -- 129
+(There were 47 warnings)
